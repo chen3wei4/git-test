@@ -1,7 +1,7 @@
 # git-test
 
 #### 介绍
-git测试
+git测试master
 
 #### 软件架构
 软件架构说明
